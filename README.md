@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey, I'm Daniel 👋
 
-<!--
-**djreisch/djreisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'M CURRENTLY:
+- Working at [Fisher Phillips](https://fisherphillips.com) 🦾
+  - Sysadmin turned DevOps now working on everything from infra to dev lifecycles
+- Running a niche tech DIY storefront 💻
+  - [Github](https://github.com/djreisch), most projects are published publically on my Github
+  - [SaveWarp](https://savewarp.com), consolidated storefront for finished products
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### YOU CAN FIND ME ON:
+- [GitHub (djreisch)](https://github.com/djreisch)
+- [Email (daniel@djreisch.com)](mailto:daniel@djreisch.com)
+- [Discord (djreisch)](https://discord.com/users/djreisch)
+- [LinkedIn](https://www.linkedin.com/in/djreisch/)
