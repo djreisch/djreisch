@@ -4,7 +4,7 @@
 - Working at [Fisher Phillips](https://fisherphillips.com) 🦾
   - Sysadmin turned DevOps now working on everything from infra to dev lifecycles
 - Running a niche tech DIY storefront 💻
-  - [Github](https://github.com/djreisch), most projects are published publically on my Github
+  - [Github](https://github.com/djreisch), most projects are published publically
   - [SaveWarp](https://savewarp.com), consolidated storefront for finished products
 
 #### YOU CAN FIND ME ON:
